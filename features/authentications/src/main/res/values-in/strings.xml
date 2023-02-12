@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- Login -->
+    <string name="login_email_label">Email</string>
+    <string name="login_email_error">Email tidak valid</string>
+    <string name="login_password_label">Sandi</string>
+    <string name="login_password_error">Panjang sandi minimal harus 6 karakter</string>
+    <string name="login_forgot_password_label">LUPA KATA SANDI</string>
+    <string name="login_label">MASUK</string>
+    <string name="login_or_login_by_label">ATAU MASUK DENGAN</string>
+    <string name="login_do_not_have_account_label">Tidak punya akun?</string>
+
+    <!-- Register -->
+    <string name="register_label">DAFTAR</string>
+    <string name="register_name_label">Nama</string>
+    <string name="register_name_error">Nama harus karakter dan spasi saja</string>
+    <string name="register_confirm_password_label">Konfirmasi Sandi</string>
+    <string name="register_confirm_password_error">Harap pastikan sandi Anda cocok</string>
+    <string name="register_already_have_account_label">Sudah punya akun?</string>
+</resources>

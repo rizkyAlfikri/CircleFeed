@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name" translatable="false">CircleFeed</string>
+    <string name="title_favorite" translatable="false">Favorite</string>
+    <string name="title_activity_story_favorite" translatable="false">StoryFavoriteActivity</string>
+</resources>

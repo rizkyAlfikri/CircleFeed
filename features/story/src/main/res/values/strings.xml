@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">CircleFeed</string>
+    <string name="title_activity_story" translatable="false">StoryActivity</string>
+    <string name="title_activity_post_story" translatable="false">PostStoryActivity</string>
+
+    <string-array name="profile_option">
+        <item>Email</item>
+        <item>Instagram</item>
+        <item>Twitter</item>
+        <item>Website</item>
+        <item>Paypal</item>
+        <item>Change Password</item>
+        <item>About CircleFeed</item>
+        <item>Term and privacy</item>
+    </string-array>
+    <string name="title_activity_story_maps" translatable="false">StoryMapsActivity</string>
+    <string name="title_activity_story_detail" translatable="false">StoryDetailActivity</string>
+</resources>

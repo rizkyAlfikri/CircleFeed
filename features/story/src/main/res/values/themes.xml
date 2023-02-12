@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools">
+
+    <style name="Theme.CircleFeed" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="colorPrimaryDark">@color/white</item>
+        // white
+        <item name="android:windowLightStatusBar" tools:targetApi="23">true</item>
+
+        <item name="android:statusBarColor">@android:color/white</item>
+        <!-- Customize your theme here. -->
+    </style>
+</resources>
