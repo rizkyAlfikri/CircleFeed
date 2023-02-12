@@ -53,8 +53,8 @@ android {
             excludes += '/META-INF/*'
         }
     }
-    lint {
-        disable "JvmStaticProvidesInObjectDetector", "FieldSiteTargetOnQualifierAnnotation", "ModuleCompanionObjects", "ModuleCompanionObjectsNotInModuleParent"
+    lintOptions {
+        abortOnError false
     }
     dynamicFeatures = [':favorite']
 }

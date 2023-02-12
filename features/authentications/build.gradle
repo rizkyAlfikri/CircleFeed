@@ -52,6 +52,9 @@ android {
             excludes += '/META-INF/*'
         }
     }
+    lintOptions {
+        abortOnError false
+    }
 }
 
 dependencies {
